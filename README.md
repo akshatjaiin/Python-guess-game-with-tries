@@ -21,14 +21,14 @@ Welcome to the **Guess the Number** game! This is a simple command-line game whe
 1. Clone the repository or download the script:
 
     ```bash
-    git clone https://github.com/your-username/guess-the-number.git
-    cd guess-the-number
+    git clone https://github.com/akshatjaiin/Python-guess-game-with-tries.git
+    cd Python-guess-game-with-tries
     ```
 
 2. Run the game:
 
     ```bash
-    python guess_the_number.py
+    python Guess.py
     ```
 
 ## 📂 Project Structure
@@ -38,6 +38,7 @@ guess-the-number/
 │
 ├── guess_the_number.py  # The main script for the game
 └── README.md            # Project documentation
+```
 ✨ Features
 Simple and intuitive gameplay.
 Infinite replayability.
@@ -49,8 +50,7 @@ You can easily customize the range of numbers by modifying the random.randint(1,
 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are welcome!
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/ceaa959f-b2c7-4934-9b1e-dcc9bac5cd35)
 
 🙏 Acknowledgments
 Inspired by classic number-guessing games.
